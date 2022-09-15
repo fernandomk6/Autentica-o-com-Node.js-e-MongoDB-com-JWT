@@ -9,3 +9,4 @@ Login e Registro com Node.js
 - O token é enviado através do header da requisição.
 - Um middleware valida o token.
 - Não há persistência de sessão no back-end, tudo é feito pelo token.
+
